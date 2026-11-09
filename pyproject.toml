@@ -1,0 +1,6 @@
+# Tool settings only (this project is not packaged).
+
+[tool.pytest.ini_options]
+# Lets tests run "from src.load_documents import ..." from the project root.
+pythonpath = ["."]
+testpaths = ["tests"]
