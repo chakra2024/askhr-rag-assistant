@@ -1,0 +1,20 @@
+# Streamlit look and feel for AskHR: deep navy sidebar, light blue-grey main area.
+[theme]
+base = "light"
+primaryColor = "#3B5BDB"
+backgroundColor = "#F3F6FB"
+secondaryBackgroundColor = "#E3EAF6"
+textColor = "#1F2A44"
+borderColor = "#C8D3E8"
+linkColor = "#2F4FC4"
+
+[theme.sidebar]
+backgroundColor = "#1B2A4E"
+secondaryBackgroundColor = "#26386A"
+textColor = "#E8EEFA"
+primaryColor = "#8FB0FF"
+borderColor = "#3A4F86"
+linkColor = "#A9C4FF"
+
+[browser]
+gatherUsageStats = false
